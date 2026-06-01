@@ -1,3 +1,4 @@
-baseURL = 'https://rikalves.com/'
+baseURL = 'http://rikalves.com/'
 locale = 'en-us'
 title = 'Rik F. Alves'
+theme = 'ananke'
