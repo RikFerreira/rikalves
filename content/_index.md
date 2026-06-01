@@ -1,6 +1,6 @@
 ---
 title: "Rik F. Alves"
-subtitle: "GIS Analyst"
+description: "GIS Analyst"
 ---
 
 Rik Ferreira Alves
