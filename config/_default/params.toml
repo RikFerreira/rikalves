@@ -1,2 +1,10 @@
 description = "GIS Analyst"
 featured_image = "/images/cover.jpg"
+
+[[social]]
+name = "github"
+url = "https://github.com/rikalves"
+
+[[social]]
+name = "linkedin"
+url = "https://linkedin.com/in/yourprofile"
