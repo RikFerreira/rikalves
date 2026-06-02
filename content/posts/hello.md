@@ -8,6 +8,18 @@ title = 'Hello'
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis velit pharetra, mattis ex eget, fermentum magna. Cras tempor ex massa. Curabitur vel commodo velit. Nullam hendrerit ullamcorper arcu, at ornare quam. Phasellus laoreet tempor turpis id dictum. Quisque pulvinar ex enim, eget ullamcorper mauris posuere at. Nulla lacus urna, feugiat et elementum nec, rhoncus quis sapien. Quisque iaculis dolor vel ipsum volutpat placerat. Integer eget quam consectetur, iaculis velit in, vehicula tortor. Aenean scelerisque commodo venenatis. Aenean euismod tellus diam, vel varius lorem blandit eu. Nam finibus quis lectus ultrices viverra. Proin maximus nisi diam, sed ullamcorper dui tincidunt quis. Quisque congue, erat ut pretium euismod, erat tellus maximus libero, id aliquet arcu nunc maximus enim.
 
+```python
+import numpy as np
+
+def fib(n):
+    if n < 2:
+        return n
+    else:
+        return fib(n-1) + fib(n-2)
+
+print(fib(10))
+```
+
 Maecenas pellentesque enim eget arcu gravida, ac dignissim erat commodo. Nam nisi arcu, congue eu accumsan non, euismod quis massa. Vestibulum metus leo, elementum sed dui eu, elementum gravida nibh. Vivamus venenatis tellus at vestibulum egestas. Donec efficitur metus massa. Vivamus ante ex, placerat sit amet ex sit amet, iaculis tristique felis. In mattis, sapien a laoreet tempor, eros lacus interdum ante, a feugiat nisl nunc quis ex. Morbi posuere libero in mi luctus aliquam eget a erat. Ut pretium ligula sed metus fringilla aliquet.
 
 Nam sed ipsum in nunc interdum lacinia. Proin venenatis odio id tristique pretium. Quisque vitae justo id justo maximus blandit a et justo. Sed at convallis elit. Nunc porta nisi in eros convallis sollicitudin. Morbi a odio ut mi consequat porta sagittis ac diam. Cras eleifend porta tristique. Phasellus aliquam, leo vitae viverra ornare, tellus quam lobortis lectus, in faucibus arcu magna vitae risus. Duis urna ipsum, semper vel mollis sit amet, auctor at turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque vitae massa tincidunt, laoreet ante et, gravida neque. Nulla dapibus mi ut ipsum vehicula sollicitudin.
