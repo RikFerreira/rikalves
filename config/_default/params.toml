@@ -12,7 +12,7 @@ networks = [
   "instagram"
 ]
 
-[ananke.social.networks.linkedin]
+[ananke.social.share.networks.linkedin]
 slug = "linkedin"
 label = "LinkedIn"
 color = "#0077b5"
