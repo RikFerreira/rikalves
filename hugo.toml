@@ -25,17 +25,14 @@ theme = 'ananke'
         weight = 4
 
 [params]
-  [params.ananke_socials]
-    networks = ["github", "linkedin", "instagram"]
+
+[params.ananke_socials]
+networks = ["github", "linkedin"]
 
 [params.ananke.social.github]
-username = "yourgithub"
-profilelink = "https://github.com/yourgithub"
+username = "rikalves"
+profilelink = "https://github.com/rikalves"
 
 [params.ananke.social.linkedin]
-username = "yourlinkedin"
-profilelink = "https://linkedin.com/in/yourlinkedin"
-
-[params.ananke.social.instagram]
-username = "yourinstagram"
-profilelink = "https://instagram.com/yourinstagram"
+username = "rik"
+profilelink = "https://linkedin.com/in/rik"
