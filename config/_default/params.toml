@@ -23,7 +23,8 @@ networks = [
 ]
 
 [ananke.social.networks.linkedin]
-name = "LinkedIn"
+name = "linkedin"
+icon = "letterboxd"
 url = "https://linkedin.com/in/rikferreira"
 
 [ananke.social.networks.instagram]
