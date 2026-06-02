@@ -2,7 +2,7 @@
 show_recent_posts = true # show recent posts on the homepage
 
 [ananke.social]
-icon_path = "ananke/socials/%s.svg"
+icon_path = "ananke/socials/apple.svg"
 
 [ananke.social.follow]
 new_window_icon = false # show a little "opens in new window" icon next to the link
