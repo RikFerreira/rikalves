@@ -12,8 +12,4 @@ networks = [
 
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/rikferreira"
-
-[[params.social]]
-name = "instagram"
-url = "https://instagram.com/yourprofile"
+url = "https://linkedin.com/in/rikferreira"
