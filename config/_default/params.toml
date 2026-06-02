@@ -24,7 +24,6 @@ networks = [
 
 [ananke.social.networks.linkedin]
 name = "linkedin"
-icon = "linkedin"
 url = "https://linkedin.com/in/rikferreira"
 
 [ananke.social.networks.instagram]
