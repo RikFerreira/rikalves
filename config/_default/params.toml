@@ -4,14 +4,10 @@ show_recent_posts = true # show recent posts on the homepage
 [ananke.social]
 icon_path = "ananke/socials/apple.svg"
 
-[ananke.social.follow]
+[ananke.social.share]
 new_window_icon = false # show a little "opens in new window" icon next to the link
 networks = [
   "linkedin",
   "facebook",
   "instagram"
 ]
-
-[[params.social]]
-name = "linkedin"
-url = "https://linkedin.com/in/rikferreira"
