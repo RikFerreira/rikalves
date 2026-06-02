@@ -12,3 +12,6 @@ networks = [
   "instagram",
   "telegram"
 ]
+
+[params.ananke.social.linkedin]
+username = "seuusuario"
