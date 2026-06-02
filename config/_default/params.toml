@@ -23,12 +23,12 @@ networks = [
 ]
 
 [ananke.social.networks.linkedin]
-name = "linkedin"
+name = "LinkedIn"
 url = "https://linkedin.com/in/rikferreira"
 
 [ananke.social.networks.instagram]
 name = "instagram"
-profile = "https://instagram.com/rikferreira"
+profile = "https://instagram.com/rik.ferreira"
 
 [ananke.social.networks.github]
 name = "github"
