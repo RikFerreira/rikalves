@@ -28,6 +28,8 @@ theme = 'ananke'
 
 [params.ananke_socials]
 networks = ["github", "linkedin"]
+socialInHeader = true
+socialInFooter = true
 
 [params.ananke.social.github]
 username = "rikalves"
