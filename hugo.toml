@@ -25,7 +25,8 @@ theme = 'ananke'
         weight = 4
 
 [params]
-debug = true
+  description = "GIS Analyst"
+
 [[params.social]]
 name = "github"
 url = "https://github.com/rikalves"
