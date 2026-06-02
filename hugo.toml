@@ -23,14 +23,3 @@ theme = 'ananke'
         name = "About"
         pageRef = "/about"
         weight = 4
-
-[params]
-  description = "GIS Analyst"
-
-[[params.social]]
-name = "github"
-url = "https://github.com/rikalves"
-
-[[params.social]]
-name = "linkedin"
-url = "https://linkedin.com/in/yourprofile"
