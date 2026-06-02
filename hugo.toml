@@ -4,18 +4,22 @@ title = 'Rik F. Alves'
 theme = 'ananke'
 
 [menu]
+    [[menu.main]]
+        name = "Home"
+        pageRef = "/"
+        weight = 1
 
-  [[menu.main]]
-    name = "Home"
-    pageRef = "/"
-    weight = 1
+    [[menu.main]]
+        name = "Posts"
+        pageRef = "/posts"
+        weight = 2
 
-  [[menu.main]]
-    name = "Posts"
-    pageRef = "/posts"
-    weight = 2
+    [[menu.main]]
+        name = "Apps"
+        pageRef = "/apps"
+        weight = 3
 
-  [[menu.main]]
-    name = "About"
-    pageRef = "/about"
-    weight = 3
+    [[menu.main]]
+        name = "About"
+        pageRef = "/about"
+        weight = 4
