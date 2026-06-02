@@ -8,7 +8,6 @@ icon_path = "ananke/socials/%s.svg"
 new_window_icon = false
 networks = [
   "linkedin",
-  "facebook",
   "instagram",
   "github"
 ]
@@ -17,9 +16,7 @@ networks = [
 new_window_icon = false
 networks = [
   "linkedin",
-  "facebook",
-  "instagram",
-  "telegram"
+  "instagram"
 ]
 
 [ananke.social.networks.linkedin]
