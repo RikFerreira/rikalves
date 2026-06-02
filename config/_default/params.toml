@@ -8,3 +8,12 @@ url = "https://github.com/rikalves"
 [[social]]
 name = "linkedin"
 url = "https://linkedin.com/in/yourprofile"
+
+[params.ananke]
+    [params.ananke.social]
+        [params.ananke.social.facebook]
+            icon = "facebook"
+            label = "Facebook"
+            color = "#3b5998"
+            profile = "https://www.facebook.com/%s"
+            link = "https://facebook.com/sharer/sharer.php"
