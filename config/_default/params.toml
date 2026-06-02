@@ -29,3 +29,7 @@ url = "https://linkedin.com/in/rikferreira"
 [ananke.social.networks.instagram]
 name = "instagram"
 profile = "https://instagram.com/rikferreira"
+
+[ananke.social.networks.github]
+name = "github"
+profile = "https://github.com/RikFerreira"
