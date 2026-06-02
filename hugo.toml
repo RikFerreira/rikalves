@@ -3,6 +3,19 @@ locale = 'en-us'
 title = 'Rik F. Alves'
 theme = 'ananke'
 
-[params]
-  site_logo = "img/logo.svg"
-  show_reading_time = true
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 3
