@@ -15,11 +15,3 @@ slug = "linkedin"
 label = "LinkedIn"
 color = "#0077b5"
 profile = "http://linkedin.com/in/rikferreira"
-icon = "fa-linkedin" # font awesome brand icon name
-link = "https://www.linkedin.com/shareArticle"
-[ananke.social.networks.linkedin.particles]
-url = "permalink"
-title = "title"
-summary = "description"
-source = "permalink"
-params = "mini=true"
