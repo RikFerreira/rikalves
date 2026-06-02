@@ -1,5 +1,6 @@
 ---
 title: "Rik F. Alves"
+featured_image: "/images/cover.jpg"
 ---
 
 ## Lorem ipsum
