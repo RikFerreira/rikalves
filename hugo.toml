@@ -5,4 +5,4 @@ theme = 'ananke'
 
 [params]
   description = "GIS Analyst"
-  featured_image = "/assets/images/cover.jpg"
+  featured_image = "/images/cover.jpg"
