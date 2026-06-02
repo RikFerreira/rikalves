@@ -2,3 +2,7 @@ baseURL = 'http://rikalves.com/'
 locale = 'en-us'
 title = 'Rik F. Alves'
 theme = 'ananke'
+
+[params]
+  site_logo = "img/logo.svg"
+  show_reading_time = true
