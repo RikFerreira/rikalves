@@ -2,7 +2,7 @@
 show_recent_posts = true
 
 [ananke.social]
-icon_path = "/icons/socials/%s.svg"
+icon_path = "/ananke/socials/%s.svg"
 
 [ananke.social.follow]
 new_window_icon = false
