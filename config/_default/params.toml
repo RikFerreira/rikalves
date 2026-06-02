@@ -7,7 +7,9 @@ icon_path = "ananke/socials/apple.svg"
 [ananke.social.follow]
 new_window_icon = false # show a little "opens in new window" icon next to the link
 networks = [
-  "linkedin"
+  "linkedin",
+  "facebook",
+  "instagram"
 ]
 
 [[params.social]]
