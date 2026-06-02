@@ -4,6 +4,15 @@ show_recent_posts = true
 [ananke.social]
 icon_path = "/ananke/socials/%s.svg"
 
+[ananke.social.follow]
+new_window_icon = false
+networks = [
+  "linkedin",
+  "facebook",
+  "instagram",
+  "telegram"
+]
+
 [ananke.social.share]
 new_window_icon = false
 networks = [
