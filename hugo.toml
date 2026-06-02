@@ -26,15 +26,10 @@ theme = 'ananke'
 
 [params]
 
-[params.ananke_socials]
-networks = ["github", "linkedin"]
-socialInHeader = true
-socialInFooter = true
+[[params.social]]
+name = "github"
+url = "https://github.com/rikalves"
 
-[params.ananke.social.github]
-username = "rikalves"
-profilelink = "https://github.com/rikalves"
-
-[params.ananke.social.linkedin]
-username = "rik"
-profilelink = "https://linkedin.com/in/rik"
+[[params.social]]
+name = "linkedin"
+url = "https://linkedin.com/in/yourprofile"
