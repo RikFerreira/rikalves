@@ -22,5 +22,12 @@ networks = [
   "telegram"
 ]
 
-[params.ananke.social.linkedin]
-username = "seuusuario"
+[params.ananke.social.networks.linkedin]
+slug = "linkedin"
+label = "LinkedIn"
+color = "#0077b5"
+profile = "https://linkedin.com/in/%s"
+icon = "linkedin"
+link = "https://www.linkedin.com/sharing/share-offsite/"
+[params.ananke.social.networks.linkedin.particles]
+url = "permalink"
