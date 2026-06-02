@@ -22,8 +22,10 @@ networks = [
   "telegram"
 ]
 
-[params.ananke.social.networks.linkedin]
-icon = "linkedin"
-link = "https://www.linkedin.com/sharing/share-offsite/"
-[params.ananke.social.networks.linkedin.particles]
-url = "permalink"
+[ananke.social.networks.linkedin]
+name = "linkedin"
+url = "https://linkedin.com/in/rikferreira"
+
+[ananke.social.networks.instagram]
+name = "instagram"
+url = "https://instagram.com/yourprofile"
