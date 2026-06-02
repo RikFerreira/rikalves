@@ -24,5 +24,6 @@ theme = 'ananke'
         pageRef = "/about"
         weight = 4
 
-[params.ananke.social.linkedin]
-    username = "rikferreira"
+[params]
+  [params.ananke_socials]
+    networks = ["github", "linkedin", "instagram"]
