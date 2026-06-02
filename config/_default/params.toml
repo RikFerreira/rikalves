@@ -1,7 +1,2 @@
-[[params.ananke_socials]]
-name = "github"
-url = "https://github.com/rikalves"
-
-[[params.ananke_socials]]
-name = "linkedin"
-url = "https://linkedin.com/in/yourprofile"
+[ananke]
+show_recent_posts = true # show recent posts on the homepage
