@@ -23,6 +23,7 @@ networks = [
 ]
 
 [params.ananke.social.networks.linkedin]
+icon = "linkedin"
 link = "https://www.linkedin.com/sharing/share-offsite/"
 [params.ananke.social.networks.linkedin.particles]
 url = "permalink"
