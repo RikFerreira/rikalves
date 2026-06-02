@@ -1,2 +1,2 @@
 [ananke]
-show_recent_posts = true # show recent posts on the homepage
+show_recent_posts = false # show recent posts on the homepage
