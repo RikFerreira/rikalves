@@ -1,12 +1,9 @@
 [ananke]
-show_recent_posts = false # show recent posts on the homepage
+show_recent_posts = true # show recent posts on the homepage
 
 [ananke.social.follow]
-new_window_icon = false # show a little "opens in new window" icon next to the link
-# add networks to this list in your local config to enable them, remove them to disable them.
+new_window_icon = true # show a little "opens in new window" icon next to the link
 networks = [
-    "facebook"
+    "linkedin",
+    "instagram"
 ]
-#   "bluesky",
-#   "linkedin"
-# ]
