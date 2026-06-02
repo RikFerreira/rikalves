@@ -10,7 +10,7 @@ networks = [
   "linkedin",
   "facebook",
   "instagram",
-  "telegram"
+  "github"
 ]
 
 [ananke.social.share]
@@ -28,4 +28,4 @@ url = "https://linkedin.com/in/rikferreira"
 
 [ananke.social.networks.instagram]
 name = "instagram"
-profile = "https://instagram.com/yourprofile"
+profile = "https://instagram.com/rikferreira"
