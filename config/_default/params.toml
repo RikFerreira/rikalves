@@ -1,7 +1,7 @@
 [ananke]
 show_recent_posts = true
 
-[params.ananke.social]
+[ananke.social]
 icon_path = "icons/socials/%s.svg"
 
 [ananke.social.follow]
