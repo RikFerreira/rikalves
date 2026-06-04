@@ -2,7 +2,7 @@
 date = '2026-06-03T21:24:53-03:00'
 draft = false
 title = 'Arch Linux Installation Guide'
-featured_image = cover.png
+featured_image = 'cover.png'
 +++
 
 Arch Linux is a distribution built around simplicity, minimalism, and user control. That same philosophy makes installation more hands-on than it is on most mainstream distributions.
