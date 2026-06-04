@@ -22,6 +22,15 @@ print(fib(10))
 
 Maecenas pellentesque enim eget arcu gravida, ac dignissim erat commodo. Nam nisi arcu, congue eu accumsan non, euismod quis massa. Vestibulum metus leo, elementum sed dui eu, elementum gravida nibh. Vivamus venenatis tellus at vestibulum egestas. Donec efficitur metus massa. Vivamus ante ex, placerat sit amet ex sit amet, iaculis tristique felis. In mattis, sapien a laoreet tempor, eros lacus interdum ante, a feugiat nisl nunc quis ex. Morbi posuere libero in mi luctus aliquam eget a erat. Ut pretium ligula sed metus fringilla aliquet.
 
+```r
+library(tidyverse)
+
+mtcars %>% 
+  select(mpg, cyl, disp, hp) %>% 
+  filter(mpg > 20) %>% 
+  arrange(mpg)
+```
+
 Nam sed ipsum in nunc interdum lacinia. Proin venenatis odio id tristique pretium. Quisque vitae justo id justo maximus blandit a et justo. Sed at convallis elit. Nunc porta nisi in eros convallis sollicitudin. Morbi a odio ut mi consequat porta sagittis ac diam. Cras eleifend porta tristique. Phasellus aliquam, leo vitae viverra ornare, tellus quam lobortis lectus, in faucibus arcu magna vitae risus. Duis urna ipsum, semper vel mollis sit amet, auctor at turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque vitae massa tincidunt, laoreet ante et, gravida neque. Nulla dapibus mi ut ipsum vehicula sollicitudin.
 
 Vivamus a ante egestas, consectetur neque a, vestibulum risus. Nulla et magna eros. Integer nunc urna, rutrum non purus ut, suscipit malesuada purus. Integer ultricies varius libero, non ultricies elit pretium quis. Nunc vulputate posuere quam, condimentum vulputate neque pellentesque a. Mauris molestie metus orci, sed efficitur lorem consequat a. Maecenas ut felis facilisis, imperdiet sapien sit amet, facilisis nisi. Proin eget libero imperdiet, condimentum ante dapibus, tempor enim. Quisque pulvinar et libero ac tincidunt. Proin faucibus turpis dapibus erat euismod tincidunt. Phasellus sit amet ante tempor, bibendum nisi condimentum, consequat velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent eu tortor sapien.
