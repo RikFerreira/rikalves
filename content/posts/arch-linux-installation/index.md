@@ -1,6 +1,6 @@
 +++
 date = '2026-06-03T21:24:53-03:00'
-draft = true
+draft = false
 title = 'Arch Linux Installation Guide'
 +++
 
