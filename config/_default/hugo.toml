@@ -23,3 +23,6 @@ theme = 'ananke'
         name = "About"
         pageRef = "/about"
         weight = 4
+
+[params]
+custom_css = ["ananke/css/custom.css"]
